@@ -3,6 +3,16 @@ You will need to copy this markdown, create your own **private** gist, and paste
 # M1 Project Reflections
 
 ## Warmup Project 
+
+### Project Overview
+
+**List out the tools you used:**
+  * 
+  * 
+
+**Write a 1-2 sentence synopsis of what this project does:**
+
+### Reflection Questions: 
 **1. How do you approach solving something when you don’t have all the information?**<br />
 **2. What was your most effective strategy for getting through blockers during this project? How did this help your process?**<br />
 **3. Tell us about a time that you found yourself in an unproductive struggle, how did you get out of it?**<br />
