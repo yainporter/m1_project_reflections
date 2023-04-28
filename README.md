@@ -3,7 +3,7 @@ You will need to copy this markdown, create your own **private** gist, and paste
 # M1 Project Reflections
 
 ## Warmup Project 
-**1. How do you approach solving something when you don’t have all the information?**
+**1. How do you approach solving something when you don’t have all the information?**<br />
 **2. What was your most effective strategy for getting through blockers during this project? How did this help your process?**
 **3. Tell us about a time that you found yourself in an unproductive struggle, how did you get out of it?**
 **4. What was the benefit of using TDD while building out this project?**
