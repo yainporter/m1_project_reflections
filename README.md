@@ -1,6 +1,6 @@
-# M1 Project Reflections
+You will need to copy this markdown, create your own **private** gist, and paste this markdown in your own gist. After each project, you will take time to come back to your private gist and answer each of the questions that are outlined for you below. 
 
-(you will need to copy this markdown, create your own **private** gist, and paste this markdown in your own gist)
+# M1 Project Reflections
 
 ## Warmup Project 
 1. How do you approach solving something when you don’t have all the information?
