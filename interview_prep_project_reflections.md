@@ -67,3 +67,27 @@ I was in a really unproductive struggle when I was trying to wrap my head around
 I think I still need to work on my TDD workflow. I was originally using it as a way to sort of pseudo code, but sometimes it caused me some confusing. I would jump ahead and try to test all the functionality of a method when that was something I was supposed to revisit later, or even when it wasn't a necessary function. So I found myself sometimes getting in that rabbit hole. 
 
 On the other side of this, I would try to pull back from testing, and end up building out other codes before even thinking about the test, and then I'd have to go back and test it. 
+
+
+## Second Solo
+
+### Project Overview
+
+#### List out the tools you used:
+1.
+2.
+3.
+...
+
+### Reflection Questions: 
+**1. Describe the steps you took to dig in to this code base. What was your process? If you don’t feel you had a process, define one that you might like to try next time.
+
+I made sure to look over the files, and the lesson, trying my best to familiarize myself with what the overall objective of the code was. After that, I ran the tests and looked over the way that it was intended to work and started digging into fixing the code.
+
+**2. What was hard about working with code you did not write?
+
+The hardest part was trying to understand all of the information. I had to break the information down and try to wrap my head around what was going on in the code.
+
+**3. What was easier than you expected about jumping in to an unfamiliar codebase? What made it easy? If nothing felt easy, what would’ve helped you feel more comfortable more quickly?
+
+I think it's probably easier than I expected because it was written in a way that I am familiar with, if that makes sense. I have an easier time understanding "textbook" like code than actual code that is written by my peers, or even myself sometimes. It's also organized nicely!
